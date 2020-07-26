@@ -51,5 +51,5 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'Praveen','$2b$10$QbslOzYjWk4oSW3DWajZzuosVr2Jz3xDUcNdd.XesCm.x0HNeYWVi','mistry@gmail.com','2019-11-14 18:50:06'),(2,'Kartik','$2b$10$nE.ENc.cLSYsMBB5l0tAMuOXx3HRMIww3JVosH2BdxsuCy5WKhFQ2','kartik@gmail.com','2019-11-15 19:20:14');
+INSERT INTO `users` VALUES (1,'john','$2b$10$QbslOzYjWk4oSW3DWajZzuosVr2Jz3xDUcNdd.XesCm.x0HNeYWVi','abc@gmail.com','2020-11-14 18:50:06'),(2,'smith','$2b$10$nE.ENc.cLSYsMBB5l0tAMuOXx3HRMIww3JVosH2BdxsuCy5WKhFQ2','smith@gmail.com','2020-11-15 19:20:14');
  
